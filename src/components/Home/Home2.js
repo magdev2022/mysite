@@ -102,7 +102,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:automatejp2023@outlook.com"
+                  href="mailto:magdev2@proton.me"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
