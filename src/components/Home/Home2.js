@@ -16,7 +16,8 @@ import {
   SiGo,
   SiElectron,
   SiPython,
-  SiAndroid
+  SiAndroid,
+  SiDiscord
 } from "react-icons/si";
 function Home2() {
   return (
@@ -108,6 +109,16 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillMail />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://discord.gg/qYpgfwjnW2"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <SiDiscord />
                 </a>
               </li>
             </ul>

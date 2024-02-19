@@ -10,7 +10,8 @@ function Type() {
           "AntiBot Solution",
           "Cross-Platform Desktop Application",
           "Mobile Application",
-          "Website Develop"
+          "Website Development",
+          "Twitter & Instagram Automation"
         ],
         autoStart: true,
         loop: true,
